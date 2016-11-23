@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "MyApp",
+    "name": "Deutsche Mitte",
     "description": "Description of the app",
     "version": "0.1.0",
     "app": {
@@ -13,16 +13,13 @@
     "icons": {
         "128": "icon.png"
     },
-    "permissions": [
-        "clipboardWrite",
-        "clipboardRead",
-        {
-            "fileSystem": [
-                "write",
-                "retainEntries",
-                "directory"
-            ]
-        },
-        "unlimitedStorage"
-    ]
+    "permissions": [],
+    "short_name": "Deutsche Mitte",
+    "offline_enabled": false,
+    "optional_permissions": [],
+    "externally_connectable": {
+        "ids": [],
+        "matches": [],
+        "accepts_tls_channel_id": false
+    }
 }

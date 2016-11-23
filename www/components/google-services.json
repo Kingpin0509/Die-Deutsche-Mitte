@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "188322177401",
+    "firebase_url": "https://die-deutsche-mitte.firebaseio.com",
+    "project_id": "die-deutsche-mitte",
+    "storage_bucket": "die-deutsche-mitte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188322177401:android:4dc725d5b1b5f654",
+        "android_client_info": {
+          "package_name": "com.the.germancenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188322177401-qnff32tlbinq09l0ko4b234lrqk99ir8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ9QwsCUpejETfqloMik9toCoEQRUmyUQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

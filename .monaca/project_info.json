@@ -14,5 +14,16 @@
         "cordova-plugin-whitelist@1.2.2",
         "cordova-plugin-splashscreen@3.2.2",
         "cordova-custom-config@2.0.3"
-    ]
+    ],
+    "title-ja": "",
+    "title-en": "Deutsche Mitte",
+    "description-ja": "",
+    "description-en": "Unser entscheidender Grundsatz:\r\nParteiprogramm = Wahlprogramm = Regierungsprogramm\r\nSo verhindern wir von Grund auf dass Unterschiede zwischen Wahlkampfversprechen und anschließender Politik entstehen können.\r\nUnser Programm ist unverrückbar und nicht verhandelbar, nicht gegenüber äusseren Einflüssen, nicht gegenüber inländischen Parlamentariern und erst recht nicht gegenüber nicht öffentlicher Interessenvertreter. \r\nUm uns dennoch zu keiner Zeit einer möglichen Regierungsverantwortung zu entziehen ordnen wir als einzige Partei unser Programm direkt nach Ministerien. Dadurch erübrigen sich lange Koalitionsverhandlungen und es ermöglicht uns dennoch „Ressortabgrenzungsgespräche“ zu führen – um anschließend in „unseren“  Ministerien exakt das umsetzen, was wir angekündigt hatten. Wir machen Politik für die große Mehrheit der Bevölkerung, die in allen Bereichen mit Recht die Regierungspolitik kritisiert.\r\nGrundsätzlich gibt es kein einziges Fachgebiet\/Ministerialressort ohne schwere Fehlentwicklungen. Deshalb entwickelt und unterstützt die Deutsche Mitte ein politisches Programm, das sich durch sämtliche Ministerialressorts zieht. Dieses Programm ist gleichzeitig eine praxisnahe Beschreibung des wichtigsten Reformbedarfs für jedes Bundesministerium. Damit ist auch festgelegt, dass ohne Aussicht auf Umsetzung dieser Reformen die Deutsche Mitte an keiner Regierungstätigkeit teilnimmt.\r\n\r\nWir drängen das globale Finanzkartell zurück – fahren schrittweise Zinsen herunter und bringen die Geldschöpfung unter öffentliche Kontrolle. Spekulationsblasen dulden wir nicht, Nahrungsmittel und Wasser sind Menschenrecht. Stopp mit der Privatisierung der öffentlichen Infrastruktur, das Besitzrecht unserer Straßen usw. muss in unseren Händen bleiben, Kunst und Kulturgüter gehören der Allgemeinheit. Wir beenden jede deutsche Beteiligung an Bundeswehr-Kampfeinsätzen außerhalb des Nato-Verteidigungsgebietes.\r\nDeutschland verdient einen Friedensvertrag, endlich volle Souveränität und eine umfassende Verfassungsreform, vor allem für mehr Bürgerrechte, die Selbstbestimmung und Selbstverantwortung des Menschen auf allen Ebenen ermöglichen – und den Überwachungsstaat beenden.\r\nDeutschland ist ein christlich geprägtes Land – die Deutsche Mitte eine säkulare Partei; wir fordern die strikte Trennung von Staat und Kirche.\r\n\r\nDie Deutsche Mitte steht für ethische Politik im Sinne der Bewahrung der Schöpfung: mit Herz, Augenmaß und Vernunft.\r\n\r\n\r\nPolitik soll fragen: Was ist gut für alle?\r\nFür Deutschland, für Europa, für die Welt. Für Mensch und Natur. Für ein glückliches und erfolgreiches Miteinander aller in Frieden, Gerechtigkeit und fairem Interessenausgleich.\r\nWir sind alle miteinander verbunden!",
+    "category": "User Template",
+    "platform": [
+        "android",
+        "ios",
+        "winrt"
+    ],
+    "name": "generated-1479845797-58347d947e21933a24a3b6b2"
 }
